@@ -1,0 +1,26 @@
+body{
+    background-color: lightseagreen;
+    color:white;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+}
+
+.container{
+    margin: 60% auto;
+}
+
+button{
+    display:inline;
+    background-color: darkmagenta;
+    color: white;
+    width: 150px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
